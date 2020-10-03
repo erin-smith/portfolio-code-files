@@ -27,21 +27,21 @@
 }, 
 {
     "id": 3,
-    "title": "Resume Tile",
-    "description": "This is an update of my First Webpage, Resume, Bio, and Current Contact Info.",
-    "image": "myfirstpage.png",
-    "link1": "https://github.com/erin-smith/resume",
-    "link2": "https://erin-smith.github.io/resume/",
-    "bgcolor": "orange"
-}, 
-{
-    "id": 4,
     "title": "Scheduler",
     "description": "This schedule-planner displays a daily 8am-6pm calendar and allows the user to plan appointments for each hour of the day. You can generate a new quote of the day as a daily heading for fun or inspiration.",
     "image": "scheduler.png",
     "link1": "https://github.com/erin-smith/schedule-planner",
     "link2": "https://erin-smith.github.io/schedule-planner",
     "bgcolor": "lightgreen"
+}, 
+{
+    "id": 4,
+    "title": "Resume Tile",
+    "description": "This is an update of my First Webpage, Resume, Bio, and Current Contact Info.",
+    "image": "myfirstpage.png",
+    "link1": "https://github.com/erin-smith/resume",
+    "link2": "https://erin-smith.github.io/resume/",
+    "bgcolor": "orange"
 }, 
 {
     "id": 5,
